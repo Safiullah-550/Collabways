@@ -1,0 +1,395 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+
+.main1{
+    background-color: chocolate;
+    display: flex;
+    justify-content: center;
+    padding-inline: 40px;
+    height: 50vh;
+    font-size: 30px;
+    padding-block: 40px;
+    color: white;
+    font-family: "Montserrat", serif;
+}
+.main1{
+
+    padding-top: 150px;
+    align-items: center;
+
+    
+}
+
+.main2{
+    background-color: chocolate;
+    display: flex;
+    justify-content: space-between;
+    gap: 20PX;
+    padding-inline: 40PX;
+    color: white;
+    padding-top: 150PX;
+    padding-block: 40PX;
+    font-family: "Montserrat", serif;
+}
+
+.main2 H1{
+    padding-left: 20px;
+    font-size: 65PX;
+    width: 100%;
+
+}
+
+.main2 P{
+    width: 50%;
+    padding-left: 200px;
+    font-size: 20px;
+    
+    color: white;
+}
+
+.main2 button{
+    border-radius: 10px;
+    border: none;
+    margin-top: 10px;
+
+    padding-inline: 30px;
+    padding-block: 10px;
+    color: chocolate;
+    margin-left: 200px;
+
+}
+.main3{
+    padding-inline: 40px;
+    padding-top: 100px;
+}
+
+.main3 h1{
+    color: chocolate;
+    font-size: 50px;
+    width: 90%;
+    padding-block: 20px;
+    font-family: "Montserrat", serif;
+    
+}
+.main3 h4{
+    color: gray;
+    font-size: 30px;
+    font-family: "Montserrat", serif;
+    padding-bottom: 20px;
+
+
+
+}
+.p3 h2{
+    font-size: 40px;
+    width: 90%;
+    padding-block: 10px;
+    padding-inline: 40px;
+    color: rgb(231, 223, 223);
+    font-family: "Montserrat", serif;
+
+}
+
+
+.p3{
+    border-radius: 10px;
+    background-color: chocolate;
+    padding: 40px;
+    
+}
+
+.p3 p{
+    font-size: 30px;
+    padding-inline: 40px;
+    width: 90%;
+    color: white;
+    font-family: "Montserrat", serif;
+
+}
+
+.main4{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-inline: 40px;
+    padding-block: 50px;
+    font-family: "Montserrat", serif;
+}
+
+.pic1 img{
+    width: 70%;
+    
+    
+
+}
+
+.pic2 img{
+    width: 80%;
+    
+}
+
+.pic3 img{
+    width: 70%;
+    
+}
+
+.main5 h1{
+text-align: center;
+padding-top: 100px;
+font-size: 80px;
+color: chocolate;
+font-family: "Montserrat", serif;
+}
+
+.marquee1{
+    display: flex;
+    gap: 20px;
+    font-size: 30px;
+}
+.marquee1 p{
+    border-radius: 6px;
+    padding: 10px;
+    gap: 20px;
+    font-size: 40px;
+
+    padding-top: 10px;
+background-color: chocolate;
+}
+.marquee2{
+    display: flex;
+    gap: 20px;
+    font-size: 30px;
+}
+.marquee2 p{
+    border-radius: 6px;
+    padding: 10px;
+    gap: 20px;
+    font-size: 40px;
+
+    padding-top: 10px;
+background-color: chocolate;
+font-family: "Montserrat", serif;
+}
+.marquee1{
+    display: flex;
+    gap: 20px;
+    font-size: 30px;
+}
+.marquee1 p{
+    border-radius: 6px;
+    padding: 10px;
+    gap: 20px;
+    font-size: 40px;
+
+    padding-top: 10px;
+background-color: chocolate;
+font-family: "Montserrat", serif;
+}
+.marquee3{
+    display: flex;
+    gap: 20px;
+    font-size: 30px;
+}
+.marquee3 p{
+    border-radius: 6px;
+    padding: 10px;
+    gap: 20px;
+    font-size: 40px;
+
+    padding-top: 10px;
+background-color: chocolate;
+font-family: "Montserrat", serif;
+}
+.main6{
+    display: flex;
+    padding-top: 50px;
+    gap: 50px;
+padding-inline: 40px;
+}
+
+.card1{
+    background-color: chocolate;
+    padding-block: 40px;
+    padding-inline: 40px;
+    border-radius: 6px;
+}
+
+.card1 h1{
+    width: 70%;
+    font-size: 50px;
+
+
+    
+}
+
+
+
+.card1 p{
+    width: 80%;
+    font-size: 20px;
+}
+.card2{
+    background-color: chocolate;
+    padding-inline: 40px;
+}
+
+.card2 h1{
+    width: 90%;
+    font-size: 50px;
+    padding-top: 20px;
+}
+
+
+.card2 p{
+    width: 90%;
+    font-size: 20px;
+
+}
+
+.card3{
+    background-color: rgb(255, 81, 0);
+    padding-inline: 40px;
+}
+
+.card3 h1{
+    padding-top:25px;
+    width: 90%;
+    font-size: 50px;
+}
+
+
+.card3 p{
+    width: 80%;
+    font-size: 20px;
+}
+
+
+.main7{
+    width: 80%;
+    font-size: 40px;
+    font-family: "Open Sans", serif;
+
+    text-align: center;
+    padding-inline: 40px;
+}
+
+.main8{
+display: flex;
+justify-content: space-around;
+gap: 50px;
+padding-top: 70px;
+padding-inline: 40px
+
+
+}
+.card7{
+    background-color: cadetblue;
+
+    padding-inline: 40px;
+    border-radius: 10px;
+height: 70vh;
+}
+
+.card7 h1{
+    font-size: 50px;
+    width: 30%;
+    font-family: "Open Sans", serif;
+    padding-top: 220px;
+
+
+
+}
+
+.main8 p{
+    width: 100%;
+    font-size: 15;
+    font-family: "Open Sans", serif;
+}
+
+.main9{
+    background-color: antiquewhite;
+}
+.main9 h1{
+    background-color: antiquewhite;
+    color: chocolate;
+    font-size: 90px;
+    width: 50%;
+    font-family: "Montserrat", serif;
+    padding-block: 100px;
+    margin-top: 100px;
+    padding-inline: 40px;
+}
+
+.main10{
+    display: flex;
+    gap: 50px;
+    padding-inline: 40px;
+    background-color: antiquewhite;
+}
+.card8 h2{
+        width: 80%;
+        font-size: 30px;
+        padding-inline: 10px;
+        font-family: "Montserrat", serif;
+        
+    }
+    .card8 p{
+        width: 80%;
+        padding-inline: 10px;
+        
+    }
+    .card8{
+        background-color: white;
+    padding-inline: 10px;
+    border-radius: 10px;
+    padding: 20px;
+    
+    }
+
+    .main11{
+        font-size: 40px;
+        padding-top: 50px;
+        color: chocolate;
+        margin-top: 40px;
+        margin-left: 500px;
+        font-family: "Montserrat", serif;
+    }
+
+
+    .main12{
+        background-color: chocolate;
+        padding-left: 70px;
+        padding-inline: 40px;
+        font-family: "Montserrat", serif;
+        display: flex;
+        justify-content: space-between;
+        padding-inline: 40px;
+        padding-block: 50px;
+        text-align: center;
+        align-items: center;
+        gap: 50px;
+
+    }
+    .card9{
+        border: 1px solid black;
+        border: none;
+        background-color: antiquewhite;
+        padding-inline: 40px;
+        padding-top: 40px;
+        padding-block: 50px;
+        height: 60vh;
+        border-radius: 20px;
+    }
+
+
+    .main12 p{
+        font-size: 20px;
+    }
